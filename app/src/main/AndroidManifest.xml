@@ -14,7 +14,14 @@
         android:theme="@style/Theme.HeartMonitorApp"
         tools:targetApi="31">
         <activity
-            android:name=".createRecord"
+
+        android:name=".createRecord"
+        android:exported="false" />
+        <activity
+            android:name=".sign_Up"
+            android:exported="false" />
+        <activity
+            android:name=".login"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
