@@ -2,7 +2,7 @@
 This app which is named "HeartMonitor" will provide the user to monitor his blood pressure .
 Each measurement have the following field:
 
-1.date measured (presented in dd-mm-yyyy format)
+1.date measured (presented in dd-mm-yyyy format).
 2.time measured (presented in hh:mm format)
 
 3.systolic pressure in mm Hg (non-negative integer)
