@@ -2,9 +2,11 @@
 This app which is named "CardiacRecorder" will provide the user to monitor his blood pressure .
 Each measurement have the following field:
 
-date measured (presented in dd-mm-yyyy format)
-time measured (presented in hh:mm format)
-systolic pressure in mm Hg (non-negative integer)
+1.date measured (presented in dd-mm-yyyy format)
+
+2.time measured (presented in hh:mm format)
+
+3.systolic pressure in mm Hg (non-negative integer)
 diastolic pressure in mm Hg (non-negative integer)
 heart rate in beats per minute (non-negative integer)
 comment (textual, up to 20 characters)
